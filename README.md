@@ -12,8 +12,8 @@ An advanced Admin Menu for your FiveM server, intuitive interface with tools for
 - Benutzerdefinierte Benutzeroberfläche
 - Über 20 Aktionen
 - Konfigurierbar
-- Discord-Protokolle
-- Optimiert (0,0 ms Leerlauf)
+- Discord-Logs
+- Optimiert (0,0 ms Idle)
 
 ## **Installation**
 1. Admin-Menü herunterladen
