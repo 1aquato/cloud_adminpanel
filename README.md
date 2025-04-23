@@ -24,7 +24,7 @@ An advanced Admin Menu for your FiveM server, intuitive interface with tools for
 6. Server starten
 
 
-## ** EN**
+## **EN**
 
 ## **Dependencies**
 - oxmysql
