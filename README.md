@@ -1,6 +1,6 @@
 # **Cloud Admin Menu**
 An advanced Admin Menu for your FiveM server, intuitive interface with tools for full management of your server.<br>
-[Support](https://discord.gg/F4Nwa2JA6x)
+[Support](https://discord.gg/zKT6Sq93yc)
 
 ## **DE**
 
